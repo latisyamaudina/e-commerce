@@ -4,7 +4,7 @@
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <a href="https://flowbite.com/" class="flex items-center">
           <img src="../src/assets/logooo.jpg" class="h-8 mr-3" alt="Flowbite Logo" />
-          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Jewrls</span>
+          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Syajewl</span>
       </a>
       <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
           <span class="sr-only">Open main menu</span>
@@ -33,14 +33,17 @@
             <router-link to="/product">Product</router-link>
           </li>
           <!-- <li>
-            <router-link to="/news">Berita</router-link>
+             <router-link to="/singleproduct"> SingleProduk</router-link>
+            </li>
+          <li>
+            <router-link to="/cart">Cart</router-link>
            </li>
            <li>
-              <router-link to="/product">Produk</router-link>
-             </li>
+             <router-link to="/checkout">Chechkout</router-link>
+            </li> -->
              <li>
-              <router-link to="/kategori">kategori</router-link>
-             </li> -->
+              <router-link to="/Contact">Contact</router-link>
+             </li>
        
         </ul>
       </div>
