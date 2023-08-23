@@ -52,8 +52,8 @@
                 <div class="relative flex flex-1 flex-col justify-between">
                   <div class="sm:col-gap-5 sm:grid sm:grid-cols-2">
                     <div class="pr-8 sm:pr-5">
-                      <p class="text-base font-semibold text-gray-900">Set Gold</p>
-                      <p class="mx-0 mt-1 mb-0 text-sm text-gray-400">36EU - 4US</p>
+                      <p class="text-base font-semibold text-gray-900"></p>
+                      <p class="mx-0 mt-1 mb-0 text-sm text-gray-400"></p>
                     </div>
 
                     <div class="mt-4 flex items-end justify-between sm:mt-0 sm:items-start sm:justify-end">
@@ -111,3 +111,7 @@
 </section>
 
 </template>
+
+<script>
+
+</script>

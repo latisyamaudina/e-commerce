@@ -82,28 +82,28 @@
           <img src="../assets/jwr.webp">
         </div>
         <h3 class="mt-4 text-sm text-gray-700">Kalung</h3>
-        <p class="mt-1 text-lg font-medium text-gray-900">$48</p>
+        <p class="mt-1 text-lg font-medium text-gray-900">Rp.145.000</p>
       </a>
       <a href="/singleproduct" class="group">
         <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
           <img src="../assets/j.jpg">
         </div>
         <h3 class="mt-4 text-sm text-gray-700">Cincin</h3>
-        <p class="mt-1 text-lg font-medium text-gray-900">$35</p>
+        <p class="mt-1 text-lg font-medium text-gray-900">Rp.125.000</p>
       </a>
       <a href="/singleproduc" class="group">
         <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
           <img src="../assets/g.jpg">
         </div>
         <h3 class="mt-4 text-sm text-gray-700">Gelang</h3>
-        <p class="mt-1 text-lg font-medium text-gray-900">$89</p>
+        <p class="mt-1 text-lg font-medium text-gray-900">Rp.150.000</p>
       </a>
       <a href="/singleproduc" class="group">
         <div class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
           <img src="../assets/pin.jpg">
         </div>
         <h3 class="mt-4 text-sm text-gray-700">Set anting dan cincin</h3>
-        <p class="mt-1 text-lg font-medium text-gray-900">$35</p>
+        <p class="mt-1 text-lg font-medium text-gray-900">Rp.250.000</p>
       </a>
     </div>
   </div>

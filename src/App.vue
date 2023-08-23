@@ -30,20 +30,20 @@
             <router-link to="/">Home</router-link>
           </li>
           <li>
-            <router-link to="/product">Product</router-link>
+            <router-link to="/produk">Product</router-link>
           </li>
-          <!-- <li>
-             <router-link to="/singleproduct"> SingleProduk</router-link>
-            </li>
           <li>
-            <router-link to="/cart">Cart</router-link>
-           </li>
-           <li>
-             <router-link to="/checkout">Chechkout</router-link>
-            </li> -->
-             <li>
-              <router-link to="/Contact">Contact</router-link>
-             </li>
+            <router-link to="/Contact">Contact</router-link>
+          </li>
+          <li>
+            <router-link to="/merk">Brands</router-link>
+          </li>
+          <li>
+            <router-link to="/kategori">Category</router-link>
+          </li>
+          <li>
+            <router-link to="/profile">Profile</router-link>
+          </li>
        
         </ul>
       </div>
